@@ -1,4 +1,0 @@
-Hasan 40
-Ahmet 30
-Eren 20
-Mahmut 10
