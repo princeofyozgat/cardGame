@@ -1,2 +1,2 @@
 # cardGame
-Memory Card game project for the lectur CSE 212
+Memory Card game project for the lecture CSE 212
